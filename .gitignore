@@ -1,0 +1,41 @@
+# Compiled files
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.app
+
+# C++ specific
+*.obj
+*.elf
+*.hex
+*.bin
+
+# VHDL simulation
+*.vcd
+*.wdb
+*.asdb
+*.shm
+
+# Build directories
+build/
+dist/
+Debug/
+Release/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
